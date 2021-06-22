@@ -1,0 +1,254 @@
+.navbar-nav{
+  text-align: right;
+  margin-left: 450px;
+}
+.navbar-brand{
+  margin-left: 250px;
+  font-size: 1em;
+}
+
+.price{
+  text-align: center;
+  font-size: 3.8em;
+  margin-top: 50px;
+}
+.text{
+  font-size: 0.4em;
+  opacity: .6;
+}
+
+.textfortable{
+	font-size:20px;
+}
+
+table{
+  margin-left: 185px;
+  text-align: center;
+  font-size: 2em;
+}
+.table_1{
+  font-size: 1em;
+  margin-left: 50px;
+
+}
+.border1{
+  font-weight: 1000;
+}
+
+.cylka{
+	text-decoration: none;
+}
+.cylka_2{
+	text-decoration:none;
+	color:#0000ff;
+}
+.cylka_3{
+	text-decoration:none;
+	color:#120a8f;
+}
+
+
+.tabl_2{
+	margin-left: 200px;
+	margin-top: 0px;
+	margin-bottom: 10000;
+	align="center";
+	padding: 0rem 10rem;
+	margin-top: -330px;
+}
+
+.tabl_3{
+	margin-left: 720px;
+	margin-top: -330px;
+}
+.podval{
+	text-align:center;
+	font-size:40px;
+	margin-top:70px;
+	font-weight:1;
+}
+.free{
+	text-align:center;
+	margin-left:-90px;
+	font-size: 1em;
+	font-weight: bold;
+}
+.pro{
+	text-align:center;
+     margin-right:-380px;
+	margin-top: -45px;
+	margin-bottom:20px;
+	font-size: 1em;
+	font-weight: bold;
+}
+
+
+.enterprise{
+	font-size: 1em;
+	font-weight: bold;
+	margin-left:1080px;
+	margin-top: -45px;
+	font-weight: bold;
+}
+
+
+.podvaltable{
+    background-color: black; /* Цвет линии */
+    height: 1px; /* Толщина линии */
+    width:1000px;
+    margin-left:200px;
+    margin-bottom:-80px;
+   }
+
+
+.podvaltable_2{
+	 height: 1px;
+	 background-color: black;
+	 width:100;
+	 margin-top: -50px;
+}
+.public{
+	font-weight: bold;
+}
+
+.private{
+	font-weight: bold;
+}
+
+.permissions{
+	 margin-top: 40px;
+	 margin-bottom: 9px;
+	 font-weight: bold;
+}
+
+.sharing{
+	font-weight: bold;
+}
+
+.Extrasecurity{
+	font-weight: bold;
+}
+.unlimitedmembers{
+	font-weight: bold;
+	margin-top:30px;
+}
+.tablemembers{
+	margin-top: -80px;
+}
+
+.poslednyytabl{
+	margin-top:210px;
+	width:1000px;
+	margin-left:200px;
+}
+.galochka_1{
+	text-align:center;
+	margin-left:-85px;
+	margin-top:-350px;
+}
+.galochka_2{
+	text-align:center;
+	margin-left:380px;
+	margin-top:-40px;
+}
+.galochka_3{
+	text-align:center;
+	margin-left:900px;
+	margin-top:-40px;
+}
+.galochka_4{
+	text-align:center;
+	margin-left:900px;
+	margin-top:40px;
+}
+.galochka_5{
+	text-align:center;
+	margin-left:900px;
+	margin-top:40px;
+}
+.galochka_6{
+	text-align:center;
+	margin-left:900px;
+	margin-top:40px;
+}
+.galochka_7{
+	text-align:center;
+	margin-left:900px;
+	margin-top:25px;
+}.galochka_8{
+	margin-left:1120px;
+	margin-top:30px;
+}
+.dop_k_galochke_8{
+}
+.galochka_9{
+	text-align:center;
+	margin-left:-90px;
+	margin-top:-210px;
+}
+.galochka_10{
+	text-align:center;
+	margin-left:380px;
+	margin-top:-100px;
+}
+
+.galochka_11{
+	text-align:center;
+	margin-left:380px;
+	margin-top:40px;
+}
+.galochka_12{
+	text-align:center;
+	margin-left:380px;
+	margin-top:40px;
+}
+.galochka_13{
+	text-align:center;
+	margin-left:380px;
+	margin-top:25px;
+}
+
+.border{
+	border:100px double black;
+	width:1000px;
+	margin-left:200px;
+	margin-top:150px;
+}
+.text1_1{
+	font-weight:600;
+	font-size:1.2em;
+	text-align:center;
+	margin-top:30px;
+	margin-left:-450px;
+}
+
+.text2_1{
+	font-weight:600;
+	font-size:1.2em;
+	text-align:center;
+	margin-top:-40px;
+	margin-left:50px;
+}
+
+.text3{
+	font-weight:600;
+	font-size:1.2em;
+	text-align:center;
+	margin-top:-40px;
+	margin-left:500px;
+}
+
+.firststalbec_1{
+  margin-left: 415px;
+  margin-top: -15px;
+}
+
+.twicestalbec_1{
+  margin-left: 658px;
+  margin-top: -235px;
+}
+
+.thirdstalbec_1{
+  margin-top: -160px;
+  margin-left: 900px;
+}
